@@ -119,6 +119,13 @@ body.show_banner_stupid div.fpmod_stupid {
     border-top: 1px solid #379700 !important;
 }
 
+body.show_banner_stupid div.fpmod_stupid {
+    background-image: url(chrome-extension://__MSG_@@extension_id__/images/banners/nuked.png);
+    background-position: right top;
+    background-repeat: no-repeat;
+    border-top: 1px solid #F8A500 !important;
+}
+
 
 body.shack_sfw * { line-height: normal !important; background-color: inherit !important; } 
 body.shack_sfw a { color: #00f !important; } 
