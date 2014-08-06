@@ -16,7 +16,9 @@ settingsLoadedEvent.addHandler(function()
                     css += " show_banner_political";
                 if (banners.contains("stupid"))
                     css += " show_banner_stupid";
-
+                if (banners.contains("nuked"))
+                    css += " show_banner_nuked";
+                    
                 if (css.length > 0)
                 {
                     document.body.className += css;
