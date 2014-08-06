@@ -119,7 +119,7 @@ body.show_banner_stupid div.fpmod_stupid {
     border-top: 1px solid #379700 !important;
 }
 
-body.show_banner_stupid div.fpmod_stupid {
+body.show_banner_stupid div.fpmod_nuked {
     background-image: url(chrome-extension://__MSG_@@extension_id__/images/banners/nuked.png);
     background-position: right top;
     background-repeat: no-repeat;
